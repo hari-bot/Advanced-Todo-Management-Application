@@ -1,18 +1,18 @@
-# Sociopedia
+# Advanced Todo Management Application
 
-Sociopedia is a full-stack social media platform developed using the MERN stack (MongoDB, Express.js, React.js, Node.js). It allows users to create, view, update, and delete posts, and provides user authentication for secure access.
+Advanced Todo Management Application is a sophisticated todo application developed using the PERN stack (PostgreSQL, Express.js, React.js, Node.js) along with Bootstrap for responsive design and Material-UI for enhanced UI components.
 
 ## Features
 
-- **User Authentication:** Implement user authentication with login and signup functionality to ensure secure access to the platform.
-- **CRUD Operations:** Enable users to create, read, update, and delete posts, providing a seamless experience for managing content.
-- **Material-UI Integration:** Utilize Material-UI (MUI) for consistent and visually appealing UI components, enhancing the user experience.
+- **User Authentication:** Implement robust user authentication and authorization features, including secure login and signup functionalities, ensuring data privacy and user security.
+- **CRUD Operations:** Design and implement comprehensive CRUD operations for todo items, enabling users to seamlessly create, delete, and modify tasks within the application.
+- **Google OAuth Integration:** Integrate Google OAuth for streamlined user authentication, allowing users to authenticate using their Google accounts for added convenience and security.
 
 ## Technologies Used
 
-- **Frontend:** React.js, Material-UI
+- **Frontend:** React.js, Bootstrap
 - **Backend:** Node.js, Express.js
-- **Database:** MongoDB
+- **Database:** PostgreSQL
 - **Deployment:** Heroku (Backend), Netlify (Frontend)
 
 ## Installation
@@ -22,8 +22,8 @@ To run Sociopedia locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/hari-bot/sociopedia.git
-   cd sociopedia
+   git clone https://github.com/hari-bot/Advanced-Todo-Management-Application.git
+   cd Advanced-Todo-Management-Application
 
 2. Install dependencies:
 
